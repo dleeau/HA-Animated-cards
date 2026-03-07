@@ -17,8 +17,6 @@
 
 # 🏠 Home Assistant Animated Cards
 
-> Take your Home Assistant dashboard to the next level with dynamic, customizable animated cards that bring your smart home dashboard to life.
-
 | 📂 Category | 📝 Description | 🔗 Link |
 | :--- | :--- | :---: |
 | **🏠Home** | main collection| [**You are here**](./) |
