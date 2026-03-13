@@ -11373,7 +11373,7 @@ card_mod:
 type: custom:mushroom-entity-card
 entity: sensor.brother_printer
 name: Printer (COLORS Ink)
-icon: empty
+icon: mdi:empty
 primary_info: name
 secondary_info: state
 tap_action:
