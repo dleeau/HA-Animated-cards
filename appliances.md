@@ -27,9 +27,9 @@
 >
 >* Washing Machine
 >
->* Dryer ![](https://img.shields.io/badge/-New-yellow)
+>* Dryer
 >
->* Combo Washer & Dryer ![](https://img.shields.io/badge/-New-yellow)
+>* Combo Washer & Dryer
 
 This [YouTube Video](https://youtu.be/6NM60DEdScA) explains how to do it.
 
