@@ -4,7 +4,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=ffc07d&center=true&vCenter=true&width=800&lines=HOME+ASSISTANT+ANIMATED+CARDS" alt="Typing SVG" /></a>
 
-<i>Created by: <a href="https://www.youtube.com/@anasbox">@Anashost</a></i>
+<i>Created by: <a href="https://www.youtube.com/@anasbox">@Anasbox</a></i>
 
   <p align="center">
     <i>Take your Home Assistant dashboard to the next level with dynamic, customizable animated cards that bring your smart home dashboard to life.</i>
@@ -13438,5 +13438,5 @@ card_mod:
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a2592c,100:ffc07d&height=100&section=footer" width="100%" />
   <br>
-  <i>Created by: <a href="https://github.com/Anashost">@Anashost</a></i>
+  <i>Created by: <a href="https://www.youtube.com/@anasbox">@Anasbox</a></i>
 </div>
