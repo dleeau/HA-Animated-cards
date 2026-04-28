@@ -1,21 +1,33 @@
-<!-- anashost_support_badges_start -->
-[![Revolut.Me][revolut_me_shield]][revolut_me]
-[![PayPal.Me][paypal_me_shield]][paypal_me]
-[![ko_fi][ko_fi_shield]][ko_fi_me]
-[![buymecoffee][buy_me_coffee_shield]][buy_me_coffee_me]
-[![patreon][patreon_shield]][patreon_me]
-<!-- anashost_support_badges_end -->
-<!-- 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
--->
+<div align="center">
 
-# 🏠 Home Assistant Animated Cards
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc07d,100:a2592c&height=120&section=header" width="100%" />
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=ffc07d&center=true&vCenter=true&width=800&lines=HOME+ASSISTANT+ANIMATED+CARDS" alt="Typing SVG" /></a>
+
+  <p align="center">
+    <i>Take your Home Assistant dashboard to the next level with dynamic, customizable animated cards that bring your smart home dashboard to life.</i>
+  </p>
+
+
+  <a href="https://revolut.me/anas4e">
+    <img src="https://img.shields.io/badge/revolut-FFFFFF?style=for-the-badge&logo=revolut&logoColor=black" alt="Revolut" />
+  </a>
+  <a href="https://paypal.me/anasboxsupport">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
+  </a>
+  <a href="https://ko-fi.com/anasbox">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi" />
+  </a>
+  <a href="https://www.buymeacoffee.com/anasbox">
+    <img src="https://img.shields.io/badge/Buy%20Me%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+  <a href="https://patreon.com/AnasBox">
+    <img src="https://img.shields.io/badge/patreon-404040?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon" />
+  </a>
+  
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffc07d,100:b74e39&height=4" width="100%" />
 
 | 📂 Category | 📝 Description | 🔗 Link |
 | :--- | :--- | :---: |
@@ -25,7 +37,9 @@
 | **📈 Graph Cards** | Temp, humidity, etc | [**View**](./env_with_graph.md) |
 | **📟 Badge/Button** | Make custom Badge/Button  | [**View**](./badge_maker.md) |
 
----
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffc07d,100:b74e39&height=4" width="100%" />
 
 Those YouTube Videos
 [Batch 1](https://youtu.be/5vYz37AqSO4) | [Batch 2](https://youtu.be/izx0JMrnhWE) | [Batch 3](https://youtu.be/SrFbC1ae35E) | [Batch 4](https://youtu.be/avAg9CR9TRc) | [Batch 5](https://youtu.be/5k6DfaymBZE)
@@ -51,7 +65,7 @@ background: #1C1C1C !important;
 --card-primary-color: white !important;
 --card-secondary-color: white !important;
 ```
-<hr>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffc07d,100:b74e39&height=4" width="100%" />
 
 ## Batch 1:
 ![ezgif-8e9c11636a22c613](https://github.com/user-attachments/assets/4f5a1af0-d89b-4ed9-9c8c-36e678045580)
@@ -68,6 +82,8 @@ background: #1C1C1C !important;
 
 ## Batch 5:
 ![gif-batch5](https://github.com/user-attachments/assets/0a432feb-ed58-4dae-b88d-995f30331e04)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffc07d,100:b74e39&height=4" width="100%" />
 
 # Cards:
 
@@ -13417,27 +13433,8 @@ card_mod:
 ```
 </details>
 
----
-
-[paypal_me_shield]: https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white
-
-[paypal_me]: https://paypal.me/anasboxsupport
-
-[revolut_me_shield]:
-https://img.shields.io/badge/revolut-FFFFFF?style=for-the-badge&logo=revolut&logoColor=black
-
-[revolut_me]: https://revolut.me/anas4e
-
-[ko_fi_shield]: https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white
-
-[ko_fi_me]: https://ko-fi.com/anasbox
-
-[buy_me_coffee_shield]: 
-https://img.shields.io/badge/Buy%20Me%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black
-
-[buy_me_coffee_me]: https://www.buymeacoffee.com/anasbox
-
-[patreon_shield]: 
-https://img.shields.io/badge/patreon-404040?style=for-the-badge&logo=patreon&logoColor=white
-
-[patreon_me]:  https://patreon.com/AnasBox
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a2592c,100:ffc07d&height=100&section=footer" width="100%" />
+  <br>
+  <i>Created by: <a href="https://github.com/Anashost">@Anashost</a></i>
+</div>
