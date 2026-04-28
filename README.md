@@ -9,21 +9,21 @@
   </p>
 
 
-  <a href="https://revolut.me/anas4e">
-    <img src="https://img.shields.io/badge/revolut-FFFFFF?style=for-the-badge&logo=revolut&logoColor=black" alt="Revolut" />
-  </a>
-  <a href="https://paypal.me/anasboxsupport">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
-  </a>
-  <a href="https://ko-fi.com/anasbox">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi" />
-  </a>
-  <a href="https://www.buymeacoffee.com/anasbox">
-    <img src="https://img.shields.io/badge/Buy%20Me%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-  </a>
-  <a href="https://patreon.com/AnasBox">
-    <img src="https://img.shields.io/badge/patreon-404040?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon" />
-  </a>
+<a href="https://revolut.me/anas4e" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/revolut-FFFFFF?style=for-the-badge&logo=revolut&logoColor=black" alt="Revolut" />
+</a>
+<a href="https://paypal.me/anasboxsupport" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
+</a>
+<a href="https://ko-fi.com/anasbox" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi" />
+</a>
+<a href="https://www.buymeacoffee.com/anasbox" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Buy%20Me%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+</a>
+<a href="https://patreon.com/AnasBox" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/patreon-404040?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon" />
+</a>
   
 
 
