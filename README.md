@@ -4,6 +4,8 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=ffc07d&center=true&vCenter=true&width=800&lines=HOME+ASSISTANT+ANIMATED+CARDS" alt="Typing SVG" /></a>
 
+<i>Created by: <a href="https://www.youtube.com/@anasbox">@Anashost</a></i>
+
   <p align="center">
     <i>Take your Home Assistant dashboard to the next level with dynamic, customizable animated cards that bring your smart home dashboard to life.</i>
   </p>
